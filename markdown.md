@@ -35,5 +35,5 @@ echo "MUDA MUDA MUDA"
 
 ![Imagen local](assets/jojitos.jpeg)
 
-![Instituto](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/800px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
+![Instituto](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/960px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
 
