@@ -33,7 +33,7 @@ echo "MUDA MUDA MUDA"
 
 [Enlace a detalles](docs/detalles.md)
 
-![Imagen local](assets/jojitos.png)
+![Imagen local](assets/jojitos.jpeg)
 
-![Instituto](https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/11/09/5fbb928f7fa47.jpeg)
+![Instituto](https://upload.wikimedia.org/wikipedia/commons/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
 EOF
